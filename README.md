@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world 👋
+I'm Danilo.
+
+Currently I'm a student of Instrumentation, Automation and Robotics at Universidade Federal do ABC(UFABC) and an intern in IBM Research.
+
+
 
 <!--
 **dancps/dancps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
