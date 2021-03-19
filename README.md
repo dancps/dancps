@@ -1,7 +1,11 @@
 ### Hello world 👋
-I'm Danilo.
+I'm Danilo. You can find me at [LinkedIn](https://www.linkedin.com/in/dancps/).
 
-Currently I'm a student of Instrumentation, Automation and Robotics at Universidade Federal do ABC(UFABC) and an intern in IBM Research.
+### Working ⌨
+Currently, I'm an intern at IBM Research and worked in projects using Deep Learning for Computer Vision tools.
+
+### Studying 📖
+I'm a student of Instrumentation, Automation and Robotics Engineering at Universidade Federal do ABC(UFABC). I'm developing my undegraduate thesis using deep learning and Jetson Nano board to create a computer vision system.
 
 
 
@@ -18,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📖📚
 -->
