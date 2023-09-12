@@ -2,7 +2,7 @@
 I'm Danilo. You can find me at [LinkedIn](https://www.linkedin.com/in/dancps/).
 
 ### Working ⌨
-Currently, I'm a Machine Learning Engineer at IBM. I've also participated in the IBM Research internship, working in projects using Deep Learning for Computer Vision tools.
+Currently, I'm a Machine Learning Engineer at Nubank. I've also worked as a MLE at IBM Consulting and participated in the IBM Research internship, working in projects using Deep Learning for Computer Vision tools.
 
 ### Studying 📖
 I'm a student of Instrumentation, Automation and Robotics Engineering at Universidade Federal do ABC(UFABC). I'm developing my undegraduate thesis using deep learning and Jetson Nano board to create a computer vision system.
